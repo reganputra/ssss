@@ -1,0 +1,30 @@
+#headAbu div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#headAbu {
+  display: flex;
+  justify-content: space-around;
+  align-content: center;
+  background: #514d4d;
+  height: 35px;
+}
+#headAbu h2 {
+  margin: 0;
+}
+#headAbu p {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#headAbu a {
+  color: #ff6915;
+  margin-right: 7px;
+  text-decoration: none;
+}
+#headAbu img {
+  width: 25px;
+  margin-right: 1vw;
+}
